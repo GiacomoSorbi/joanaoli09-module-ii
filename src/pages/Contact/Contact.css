@@ -1,0 +1,29 @@
+.contact-page h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: rgb(58, 56, 56);
+    text-align: center;
+    padding-top: 100px;
+}
+
+.contact-page p {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    width: 700px;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+.latest {
+    padding: 100px 0 50px 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+.images img {
+    height: 400px;
+    width: 300px;
+    object-fit: cover;
+    padding: 20px;
+}

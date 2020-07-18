@@ -1,0 +1,14 @@
+.row {
+    border: top;
+    justify-content: space-between;
+    padding: 3;
+}
+.brandname{
+    display: flex;
+    
+    justify-content: start;
+}
+.copyrights {
+    display: flex;
+    justify-content: end;
+}

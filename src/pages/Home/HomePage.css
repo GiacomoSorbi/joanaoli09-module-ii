@@ -1,0 +1,147 @@
+
+
+.homepage h2 {
+    padding-top: 150px;
+    padding-bottom: 20px;
+    font-family: 'Pathway Gothic One', sans-serif;
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 500;
+
+}
+.jumbo2 {
+    background-image: url("../../assets/aboutImage.jpg");
+    background-size: cover;
+    color: #ccc;
+    height: 300px;
+    position: relative;
+    z-index: -2;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-top:0;
+}
+.homepage h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: rgba(40, 44, 48, 1);
+    width: 900px;
+    margin: 0 auto;
+    padding-top: 150px;
+    padding-bottom: 100px;
+    font-weight: 500;
+}
+
+.section-1 {
+    /* background-color: rgba(251, 248, 237, 0.637); */
+    height: 600px;
+    margin-bottom: 130px;
+    padding-top: 50px;
+}
+.images img{
+    height: 400px;
+    width: 300px;
+    object-fit: cover;
+    padding: 20px;
+
+}
+.presentation {
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 20px;
+    width: 850px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 18px;
+}
+
+/* about section */
+
+.jumbo2 {
+    background-image: url("../../assets/heroImage.jpg");
+    background-size: cover;
+    color: #ccc;
+    height: 300px;
+    position: relative;
+    z-index: -2;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-top:0;
+}
+
+.overlay2 {
+    background-color: white;
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    left:0;
+    bottom: 0;
+    right: 0;
+    z-index: -1;
+}
+.about-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 320px;
+    background-color: #f0f0ef;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.about-us{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 100px;
+}
+.about-us h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    padding-bottom: 10px;
+}
+.about-us p {
+    width: 500px;
+    text-align: justify;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+}
+
+.about-image img{
+    width: 400px;
+    height: auto;
+
+}
+.btn-about {
+    margin: 0 auto;
+    cursor: pointer;
+    font-family: "Lato", sans-serif;
+    font-size: 13px;
+    text-decoration: none;
+}
+.container p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    color: rgb(58, 56, 56);
+    text-align: center;
+}
+
+/* newsletter section */
+
+.subscribe-newsletter{
+    background-color: #fee5d3;
+    width: 100%;
+    height: 250px;
+    margin-top: 100px;
+}
+
+.subscribe-newsletter h1{
+    text-transform: uppercase;
+    font-size: 40px;
+    padding-top: 50px;
+    font-family: 'Pathway Gothic One', sans-serif;
+}
+.subscribe-newsletter p{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    color: rgb(58, 56, 56);
+    text-align: center;
+}

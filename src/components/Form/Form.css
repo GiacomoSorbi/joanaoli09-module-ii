@@ -1,0 +1,32 @@
+.success-msg {
+    color: #57A773;
+    padding: 10px 15px;
+
+}
+
+.err-msg {
+    color: #EE6352;
+    padding: 10px 15px;
+
+}
+
+#full-name, #email, #message{
+  width: 400px;
+  padding: 0.5rem;
+  margin: 15px auto;
+  
+}
+
+.form {
+    margin-top: 100px;
+    background-color: #fff8ee;
+    padding-top: 50px;
+    height: 500px;
+    width: 800px;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+.label{
+    font-family: 'Montserrat', sans-serif;
+}
