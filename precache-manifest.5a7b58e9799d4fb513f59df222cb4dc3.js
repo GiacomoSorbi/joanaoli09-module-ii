@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "230e32dbfb5afdd2d27771dd81c69aa8",
+    "revision": "6aa15bc2952f843c246ceff578f73741",
     "url": "//giacomosorbi.github.io/joanaoli09-module-ii/index.html"
   },
   {
-    "revision": "a173fdb8b032052d174d",
+    "revision": "96cb3abf675c2e3baac7",
     "url": "//giacomosorbi.github.io/joanaoli09-module-ii/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "3e6cc359d519ac1bb49f",
+    "revision": "f81742f20e6087970017",
     "url": "//giacomosorbi.github.io/joanaoli09-module-ii/static/css/main.e84fc86c.chunk.css"
   },
   {
-    "revision": "a173fdb8b032052d174d",
-    "url": "//giacomosorbi.github.io/joanaoli09-module-ii/static/js/2.ffcf2f5a.chunk.js"
+    "revision": "96cb3abf675c2e3baac7",
+    "url": "//giacomosorbi.github.io/joanaoli09-module-ii/static/js/2.5a490109.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "//giacomosorbi.github.io/joanaoli09-module-ii/static/js/2.ffcf2f5a.chunk.js.LICENSE.txt"
+    "url": "//giacomosorbi.github.io/joanaoli09-module-ii/static/js/2.5a490109.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3e6cc359d519ac1bb49f",
-    "url": "//giacomosorbi.github.io/joanaoli09-module-ii/static/js/main.8c787e4b.chunk.js"
+    "revision": "f81742f20e6087970017",
+    "url": "//giacomosorbi.github.io/joanaoli09-module-ii/static/js/main.8766aec0.chunk.js"
   },
   {
     "revision": "f9bf0956da87f0eb8f11",

@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "//giacomosorbi.github.io/joanaoli09-module-ii/static/css/main.e84fc86c.chunk.css",
-    "main.js": "//giacomosorbi.github.io/joanaoli09-module-ii/static/js/main.8c787e4b.chunk.js",
-    "main.js.map": "//giacomosorbi.github.io/joanaoli09-module-ii/static/js/main.8c787e4b.chunk.js.map",
+    "main.js": "//giacomosorbi.github.io/joanaoli09-module-ii/static/js/main.8766aec0.chunk.js",
+    "main.js.map": "//giacomosorbi.github.io/joanaoli09-module-ii/static/js/main.8766aec0.chunk.js.map",
     "runtime-main.js": "//giacomosorbi.github.io/joanaoli09-module-ii/static/js/runtime-main.596b4609.js",
     "runtime-main.js.map": "//giacomosorbi.github.io/joanaoli09-module-ii/static/js/runtime-main.596b4609.js.map",
     "static/css/2.af3c1da9.chunk.css": "//giacomosorbi.github.io/joanaoli09-module-ii/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.ffcf2f5a.chunk.js": "//giacomosorbi.github.io/joanaoli09-module-ii/static/js/2.ffcf2f5a.chunk.js",
-    "static/js/2.ffcf2f5a.chunk.js.map": "//giacomosorbi.github.io/joanaoli09-module-ii/static/js/2.ffcf2f5a.chunk.js.map",
+    "static/js/2.5a490109.chunk.js": "//giacomosorbi.github.io/joanaoli09-module-ii/static/js/2.5a490109.chunk.js",
+    "static/js/2.5a490109.chunk.js.map": "//giacomosorbi.github.io/joanaoli09-module-ii/static/js/2.5a490109.chunk.js.map",
     "index.html": "//giacomosorbi.github.io/joanaoli09-module-ii/index.html",
-    "precache-manifest.a98bbbadba43d172aa7744dbfec08cad.js": "//giacomosorbi.github.io/joanaoli09-module-ii/precache-manifest.a98bbbadba43d172aa7744dbfec08cad.js",
+    "precache-manifest.5a7b58e9799d4fb513f59df222cb4dc3.js": "//giacomosorbi.github.io/joanaoli09-module-ii/precache-manifest.5a7b58e9799d4fb513f59df222cb4dc3.js",
     "service-worker.js": "//giacomosorbi.github.io/joanaoli09-module-ii/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "//giacomosorbi.github.io/joanaoli09-module-ii/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.e84fc86c.chunk.css.map": "//giacomosorbi.github.io/joanaoli09-module-ii/static/css/main.e84fc86c.chunk.css.map",
-    "static/js/2.ffcf2f5a.chunk.js.LICENSE.txt": "//giacomosorbi.github.io/joanaoli09-module-ii/static/js/2.ffcf2f5a.chunk.js.LICENSE.txt",
+    "static/js/2.5a490109.chunk.js.LICENSE.txt": "//giacomosorbi.github.io/joanaoli09-module-ii/static/js/2.5a490109.chunk.js.LICENSE.txt",
     "static/media/HomePage.css": "//giacomosorbi.github.io/joanaoli09-module-ii/static/media/aboutImage.3184f13b.jpg",
     "static/media/Jumbotron.css": "//giacomosorbi.github.io/joanaoli09-module-ii/static/media/heroImage.d28d3176.jpg",
     "static/media/homeImage1.jpg": "//giacomosorbi.github.io/joanaoli09-module-ii/static/media/homeImage1.eb5ab899.jpg",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.596b4609.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.ffcf2f5a.chunk.js",
+    "static/js/2.5a490109.chunk.js",
     "static/css/main.e84fc86c.chunk.css",
-    "static/js/main.8c787e4b.chunk.js"
+    "static/js/main.8766aec0.chunk.js"
   ]
 }
