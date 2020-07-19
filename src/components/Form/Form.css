@@ -30,3 +30,14 @@
 .label{
     font-family: 'Montserrat', sans-serif;
 }
+@media only screen and (max-width: 600px) {
+    .form {
+        width: 0;
+        display: flex;
+    }
+    #full-name, #email, #message{
+        width: 300px;
+        padding: 0.5rem;
+        margin: 0 auto;
+      }
+}

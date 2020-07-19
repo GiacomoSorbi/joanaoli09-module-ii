@@ -1,6 +1,5 @@
 import React from "react";
 import { Jumbotron as Jumbo, Container} from 'react-bootstrap';
-// import heroImage from '../../assets/heroImage.jpg'
 import "./Jumbotron.css";
 
 const Jumbotron = () => (
@@ -15,3 +14,4 @@ const Jumbotron = () => (
 )
 
 export default Jumbotron;
+

@@ -14,20 +14,60 @@
 .contact-page p {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
-    width: 700px;
     margin: 0 auto;
-    padding-bottom: 50px;
+    padding: 0px 400px 50px 400px;
 }
 .latest {
-    padding: 100px 0 50px 0;
+    padding-top: 100px;
     font-family: 'Montserrat', sans-serif;
     font-size: 25px;
     font-weight: 500;
 }
 
-.images img {
-    height: 400px;
-    width: 300px;
-    object-fit: cover;
-    padding: 20px;
+
+@media only screen and (max-width: 700px) {
+   
+    .contact-page p {
+        padding: 0 20px 0 20px;
+        font-size: 15px;
+    }
+    .latest {
+        padding: 100px 0 50px 0;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 25px;
+        font-weight: 500;
+    }
+    
+}
+
+@media only screen and (max-width: 1100px) {
+    .contact-page p {
+        padding: 0 300px 0 300px;
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width: 990px) {
+    .contact-page p {
+        padding: 0 200px 0 200px;
+        font-size: 15px;
+    }
+}
+@media only screen and (max-width: 800px) {
+    .contact-page p {
+        padding: 0 100px 0 100px;
+        font-size: 15px;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .contact-page p {
+        padding: 0 50px 0 50px;
+        font-size: 15px;
+    }
+}
+@media only screen and (max-width: 500px) {
+    .contact-page p {
+        padding: 0 20px 0 2©0px;
+        font-size: 15px;
+    }
 }

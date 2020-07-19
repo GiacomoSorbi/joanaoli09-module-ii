@@ -1,11 +1,6 @@
 import React from "react"
 import Form from '../../components/Form'
 import "./Contact.css";
-import  lastrecipe1 from '../../assets/lastrecipe1.jpg'
-import  lastrecipe2 from '../../assets/lastrecipe2.jpg'
-import  lastrecipe3 from '../../assets/lastrecipe3.jpg'
-import {Container} from 'react-bootstrap';
-import {NavLink} from 'react-router-dom';
 import { Button } from 'react-bootstrap';
 
 
@@ -19,17 +14,10 @@ const Contact = () => (
 
     
     <Form />
+    <p></p>
     <p className="latest">Checkout the latest products</p>
-    <div className="images">
-    <Container>
-            <img src={lastrecipe1} alt="latest recipes"/>
-            <img src={lastrecipe2} alt="latest recipes"/>
-            <img src={lastrecipe3} alt="latest recipes"/>  
-     </Container>
-     </div>
-     <Button className="btn-products" variant="dark" onClick={() => (<NavLink to="/products"></NavLink>)}>Go to Products</Button>
+     <Button className="btn-products" variant="dark" href="/products">Go to Products</Button>
     </div>
     </>
 )
-
 export default Contact;

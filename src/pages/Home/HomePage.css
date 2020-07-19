@@ -1,36 +1,23 @@
 
-.jumbo2 {
-    background-image: url("../../assets/aboutImage.jpg");
-    background-size: cover;
-    color: #ccc;
-    height: 300px;
-    position: relative;
-    z-index: -2;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    margin-top:0;
-}
 .homepage h3 {
     font-family: 'Montserrat', sans-serif;
     line-height: 1.5;
     font-size: 30px;
     color: rgba(40, 44, 48, 1);
-    width: 900px;
     margin: 0 auto;
-    padding-top: 150px;
-    padding-bottom: 100px;
     font-weight: 500;
     text-align: center;
+    padding: 150px 300px 100px 300px;
 }
 
-.images{
+.images-hm{
     display: flex;
     flex-direction: row;
     justify-content: center;
 }
 
 
-.images img{
+.images-hm img{
     height: 400px;
     width: 300px;
     object-fit: cover;
@@ -40,47 +27,24 @@
 }
 .presentation {
     font-family: 'Montserrat', sans-serif;
-    padding-top: 20px;
-    width: 850px;
     margin: 0 auto;
     text-align: center;
     font-size: 18px;
     margin-bottom: 100px;
+    padding: 20px 300px 0 300px;
 }
-
 
 
 /* about section */
 
-.jumbo2 {
-    background-image: url("../../assets/heroImage.jpg");
-    background-size: cover;
-    color: #ccc;
-    height: 300px;
-    position: relative;
-    z-index: -2;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    margin-top:0;
-}
 
-.overlay2 {
-    background-color: white;
-    opacity: 0.5;
-    position: absolute;
-    top: 0;
-    left:0;
-    bottom: 0;
-    right: 0;
-    z-index: -1;
-}
 .about-section {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
     height: 320px;
     background-color: #f0f0ef;
-    width: 1000px;
+    width: 1020px;
     margin: 0 auto;
 }
 
@@ -97,7 +61,6 @@
     text-align: center;
 }
 .about-us p {
-    width: 500px;
     text-align: justify;
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
@@ -106,6 +69,7 @@
 .about-image img{
     width: 400px;
     height: auto;
+    object-fit: cover;
 
 }
 .btn-about {
@@ -145,7 +109,52 @@
     color: rgb(58, 56, 56);
 }
 
+/* media queries */
+
 @media only screen and (max-width: 700px)  {
+
+    .images-hm{
+        margin: 0 auto;
+  
+    }
+    .images-hm img { 
+        height: 350px;
+        width: 300px;
+        object-fit: cover;
+    }
+    .about-section {
+        width: 0;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .presentation{
+        padding: 0px;
+        text-align: center;
+        font-size: 15px;
+        padding: 0 50px 0 50px;
+        text-align: justify;
+    }
     
-   
+    .about-image img{
+       display: none;
+    }
+    .about-us p {
+        display: none;
+        
+    }
+    .about-us h1 {
+        width: 200px;
+    }
+    .mobile-img{
+        display:none;
+    }
+
+    .homepage h3 {
+        padding: 50px 20px 20px 20px;
+        font-size: 20px;
+    }
+    .contact-section {
+        background-color: #fff8ee;
+    }
 }

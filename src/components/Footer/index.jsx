@@ -15,7 +15,7 @@ const Footer = () => (
                 ©Incredibowls
                 </Col>
                
-                <Col className="copyright p-0 d-flex justify-content-end" md={3}>
+                <Col className="copyright" md={3}>
                 This site was made by Joana Oliveira.
                 </Col>
             </Row>

@@ -27,6 +27,18 @@ function Products ({ addToCart }) {
                 cost:'9.99$',
                 image: 'https://images.unsplash.com/photo-1570649857669-4ad9f896435d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=703&q=80',
     
+            },
+            {
+                name: 'Weekly breakfasts',
+                cost:'15.99$',
+                image: 'https://images.unsplash.com/photo-1585735119301-232c1633d439?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80',
+    
+            },
+            {
+                name: 'Snack recipe+ingredients',
+                cost:'15.99$',
+                image: 'https://images.unsplash.com/photo-1585735119407-b037131a352b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80',
+    
             }
         ])
 

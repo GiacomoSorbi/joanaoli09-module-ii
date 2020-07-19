@@ -12,13 +12,12 @@
 }
 
 
-
 .about-us-section{
     height: 400px;
     background-color: #fff8ee;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-between;
     margin: 0 auto;
     margin-top: 100px;
     color: #2c2c2c;
@@ -30,10 +29,11 @@
     object-fit: cover;
     display: flex;
     flex-direction: column;
+    padding-left: 50px;
 }
 
 .about-text {
-    width: 600px;
+    padding: 20px 200px 0 200px;
     text-align: justify;
     font-family: 'Montserrat', sans-serif;
     font-size: 15px;
@@ -41,10 +41,74 @@
     flex-direction: column;
     justify-content: center;
     letter-spacing: 0.5px;
-    padding-top: 20px;
+
   
 }
 
 .contact-section {
     background-color: #e8cfcb;
+}
+
+@media screen and (max-width: 1199px){
+    .about-text {
+        display: flex;
+        flex-direction: column;
+        padding: 0 50px 0 50px ;
+        letter-spacing: 0;
+        font-size: 13px;
+        margin: 0 auto;
+    }
+
+}
+@media screen and (max-width: 885px){
+    .about-us-section img {
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        height: 400px;
+        width: 350px;
+        justify-content: center;
+        margin: 0 auto;
+
+    }
+    .about-text {
+        display: flex;
+        flex-direction: column;
+        padding: 0 30px 0 30px ;
+        letter-spacing: 0;
+        font-size: 13px;
+        margin: 0 auto;
+    }
+    .about-us-section{
+        height: 600px;
+        background-color: #fff8ee;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        margin-bottom: 100px;
+    }
+}
+@media screen and (max-width: 650px){
+    about-us-section{
+        height: 700px;
+    }
+}
+@media  screen and (max-width: 600px) {
+    .about-us-section img {
+        width: 300px;
+    }
+    .about-us-section{
+        height: 700px;
+    }
+
+}
+@media  screen and (max-width: 500px){
+    .about-us-section{
+        height: 750px;
+    }
+}
+@media  screen and (max-width: 440px) {
+    .about-us-section{
+        height: 850px;
+    }
 }

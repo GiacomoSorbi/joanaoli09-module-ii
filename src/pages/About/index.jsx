@@ -2,7 +2,6 @@ import React from "react"
 import aboutus from '../../assets/aboutus.jpg'
 import "./About.css";
 import {Button} from 'react-bootstrap';
-import {NavLink} from 'react-router-dom'
 
 const About = () => (
     <>
@@ -22,10 +21,9 @@ const About = () => (
         <div className="contact-section">
         <h1> GET IN TOUCH </h1>
         <p>Send us a message regarding your order or other enquires you might have</p>
-        <Button  variant="dark" onClick={() => (<NavLink to="/contact"></NavLink>)}>Contact us!</Button>
+        <Button  variant="dark" href="/contact">Contact us!</Button>
         </div>
     </div>
     </>
 )
-
 export default About;

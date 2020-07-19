@@ -14,6 +14,22 @@
 .product {
     width: 320px;
     margin: 0 auto;
+    padding: 40px;
+   
 }
 
-
+@media only screen and (max-width: 700px) {
+    
+    .product {
+    padding-left: 25px;
+    width: 200px;
+    margin: 0 auto;
+}
+.product h3{
+    font-size: 15px;
+}
+.product h4{
+    font-size: 13px;
+}
+    
+}
