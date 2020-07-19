@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c06facac9c2e7a43d87c317d6572235b",
+    "revision": "f53b20089bfa8393411110aeea0ebdc4",
     "url": "/joanaoli09-module-ii/index.html"
   },
   {
-    "revision": "96cb3abf675c2e3baac7",
+    "revision": "9bf0b9cfe59f7abdbcb5",
     "url": "/joanaoli09-module-ii/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "1247fb55a6dccbb80c02",
-    "url": "/joanaoli09-module-ii/static/css/main.6ccbaa34.chunk.css"
+    "revision": "a21cfa4f215cb00be443",
+    "url": "/joanaoli09-module-ii/static/css/main.5df790b3.chunk.css"
   },
   {
-    "revision": "96cb3abf675c2e3baac7",
-    "url": "/joanaoli09-module-ii/static/js/2.5a490109.chunk.js"
+    "revision": "9bf0b9cfe59f7abdbcb5",
+    "url": "/joanaoli09-module-ii/static/js/2.937d0e0e.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/joanaoli09-module-ii/static/js/2.5a490109.chunk.js.LICENSE.txt"
+    "url": "/joanaoli09-module-ii/static/js/2.937d0e0e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1247fb55a6dccbb80c02",
-    "url": "/joanaoli09-module-ii/static/js/main.1cd7fd9d.chunk.js"
+    "revision": "a21cfa4f215cb00be443",
+    "url": "/joanaoli09-module-ii/static/js/main.7bd26744.chunk.js"
   },
   {
     "revision": "4497355a65d28d65b9d3",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3184f13b8b7550923e234f432f101ef2",
     "url": "/joanaoli09-module-ii/static/media/aboutImage.3184f13b.jpg"
+  },
+  {
+    "revision": "44e682059c1b32157062495df291ed96",
+    "url": "/joanaoli09-module-ii/static/media/aboutus.44e68205.jpg"
   },
   {
     "revision": "d28d31760687330e86d07d5a1ff6ff1f",
