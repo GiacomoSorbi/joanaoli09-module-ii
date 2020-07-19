@@ -98,16 +98,26 @@
         width: 300px;
     }
     .about-us-section{
-        height: 700px;
+        height: 650px;
     }
 
 }
-@media  screen and (max-width: 500px){
+@media  screen and (max-width: 480px){
+    .about-us-section{
+        height: 720px;
+    }
+}
+@media  screen and (max-width: 440px) {
     .about-us-section{
         height: 750px;
     }
 }
-@media  screen and (max-width: 440px) {
+@media  screen and (max-width: 400px) {
+    .about-us-section{
+        height: 800px;
+    }
+}
+@media  screen and (max-width: 330px) {
     .about-us-section{
         height: 850px;
     }

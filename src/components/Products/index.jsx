@@ -35,7 +35,7 @@ function Products ({ addToCart }) {
     
             },
             {
-                name: 'Snack recipe+ingredients',
+                name: 'Recipes + ingredients',
                 cost:'15.99$',
                 image: 'https://images.unsplash.com/photo-1585735119407-b037131a352b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80',
     

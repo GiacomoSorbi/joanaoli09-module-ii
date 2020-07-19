@@ -17,13 +17,20 @@
     margin: 0 auto;
     padding: 0px 400px 50px 400px;
 }
-.latest {
-    padding-top: 100px;
+.latest p{
+    text-transform: uppercase;
     font-family: 'Montserrat', sans-serif;
-    font-size: 25px;
+    font-size: 23px;
     font-weight: 500;
 }
-
+.latest button{
+    margin-top: 0;
+    padding: 0;
+}
+.btn-products{
+    margin-top: 0;
+    padding: 0;
+}
 
 @media only screen and (max-width: 700px) {
    
@@ -37,6 +44,14 @@
         font-size: 25px;
         font-weight: 500;
     }
+    .btn-products{
+        margin-top: 10px;
+        font-size: 15px;
+    }
+    .latest p {
+        padding-top: 50px;
+        font-size: 20px;
+    }
     
 }
 
@@ -45,6 +60,14 @@
         padding: 0 300px 0 300px;
         font-size: 15px;
     }
+    .btn-products{
+        margin-top: 10px;
+        font-size: 15px;
+    }
+    .latest p {
+        padding-top: 50px;
+        font-size: 20px;
+    }
 }
 
 @media only screen and (max-width: 990px) {
@@ -52,11 +75,27 @@
         padding: 0 200px 0 200px;
         font-size: 15px;
     }
+    .btn-products{
+        margin-top: 10px;
+        font-size: 15px;
+    }
+    .latest p {
+        padding-top: 50px;
+        font-size: 20px;
+    }
 }
 @media only screen and (max-width: 800px) {
     .contact-page p {
         padding: 0 100px 0 100px;
         font-size: 15px;
+    }
+    .btn-products{
+        margin-top: 10px;
+        font-size: 15px;
+    }
+    .latest p {
+        padding-top: 50px;
+        font-size: 20px;
     }
 }
 @media only screen and (max-width: 600px) {
@@ -64,10 +103,26 @@
         padding: 0 50px 0 50px;
         font-size: 15px;
     }
+    .btn-products{
+        margin-top: 10px;
+        font-size: 15px;
+    }
+    .latest p {
+        padding-top: 20px;
+        font-size: 20px;
+    }
 }
 @media only screen and (max-width: 500px) {
     .contact-page p {
         padding: 0 20px 0 20px;
         font-size: 15px;
+    }
+    .btn-products{
+        margin-top: 10px;
+        font-size: 15px;
+    }
+    .latest p {
+        padding-top: 20px;
+        font-size: 20px;
     }
 }

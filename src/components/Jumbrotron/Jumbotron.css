@@ -46,3 +46,12 @@
     color: rgb(58, 56, 56);
     text-align: center;
 }
+
+@media screen and (max-width: 700px) {
+    .container h1{
+        font-size: 40px;
+    }
+    .container h3 {
+        font-size: 16px;
+    }
+}
