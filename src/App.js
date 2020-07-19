@@ -4,9 +4,7 @@ import Home from './pages/Home'
 import About from './pages/About'
 import Contact from './pages/Contact'
 import ProductsPage from './pages/ProductsPage'
-import NoMatch from './pages/NoMatch'
 import './App.css';
-// import Layout from './components/Layout'
 import NavBar from './components/NavBar'
 import Jumbotron from './components/Jumbrotron'
 import Footer from './components/Footer'
@@ -14,16 +12,28 @@ import Footer from './components/Footer'
 function App() {
   return (
     <div className="App">
-      <NavBar />
-      <Jumbotron />
     
       <Router basename={process.env.PUBLIC_URL}>
+      <NavBar />
+      <Jumbotron />
         <Switch>
           <Route exact path="/" component={Home} />
           <Route  path="/about" component={About} />
           <Route  path="/contact" component={Contact} />
           <Route  path="/products" component={ProductsPage} />
-          <Route  component={NoMatch} />
+          <Route
+          path="*"
+          render={() => (
+            <img
+              alt="alt"
+              src="https://i1.wp.com/saedx.com/blog/wp-content/uploads/2019/01/saedx-blog-featured-70.jpg?fit=1200%2C500&ssl=1"
+              style={{
+                justifyContent: 'center',
+                alignItems: 'center',
+              }}
+            />
+          )}
+        />
         </Switch>
       </Router>
       <Footer/>

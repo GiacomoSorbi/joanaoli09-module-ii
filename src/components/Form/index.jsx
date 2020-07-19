@@ -81,7 +81,7 @@ class ContactForm extends React.Component {
                         <Form.Control id="message" name="message" as="textarea" rows="3" value={this.state.message} onChange={this.handleChange}/>
                     </Form.Group>
 
-                    <Button className="d-inline-block" variant="primary" type="submit" disabled={this.state.disabled}>
+                    <Button className="d-inline-block" variant="outline-dark" type="submit" disabled={this.state.disabled}>
                         Send
                     </Button>
 

@@ -1,0 +1,19 @@
+.product h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    text-align: start;
+    padding-bottom: 10px;
+}
+
+.product h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    text-align: start;
+}
+
+.product {
+    width: 320px;
+    margin: 0 auto;
+}
+
+

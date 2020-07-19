@@ -1,5 +1,5 @@
 import React from 'react'
-
+import {Button} from 'react-bootstrap';
 
 function Cart ({ cart, removeFromCart }) {
 
@@ -19,9 +19,9 @@ function Cart ({ cart, removeFromCart }) {
                   <img src={product.image} alt={product.name}/>
                   <div>
                       <p></p>
-                  <button onClick={() => removeFromCart(product)}>
+                  <Button variant="dark" onClick={() => removeFromCart(product)}>
                       Remove
-                   </button>
+                   </Button>
                    </div>
                </div> 
                    ))}
