@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f53b20089bfa8393411110aeea0ebdc4",
+    "revision": "5235c4dce9445d165dcc16662da9c0e3",
     "url": "/joanaoli09-module-ii/index.html"
   },
   {
-    "revision": "9bf0b9cfe59f7abdbcb5",
+    "revision": "3450d282d1bda0427460",
     "url": "/joanaoli09-module-ii/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "a21cfa4f215cb00be443",
-    "url": "/joanaoli09-module-ii/static/css/main.5df790b3.chunk.css"
+    "revision": "158b78d70ddf0f5867cd",
+    "url": "/joanaoli09-module-ii/static/css/main.881fc137.chunk.css"
   },
   {
-    "revision": "9bf0b9cfe59f7abdbcb5",
-    "url": "/joanaoli09-module-ii/static/js/2.937d0e0e.chunk.js"
+    "revision": "3450d282d1bda0427460",
+    "url": "/joanaoli09-module-ii/static/js/2.3d17a313.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/joanaoli09-module-ii/static/js/2.937d0e0e.chunk.js.LICENSE.txt"
+    "url": "/joanaoli09-module-ii/static/js/2.3d17a313.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a21cfa4f215cb00be443",
-    "url": "/joanaoli09-module-ii/static/js/main.7bd26744.chunk.js"
+    "revision": "158b78d70ddf0f5867cd",
+    "url": "/joanaoli09-module-ii/static/js/main.4f252a34.chunk.js"
   },
   {
     "revision": "4497355a65d28d65b9d3",
@@ -50,17 +50,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "981e53997d57ab91ca7eae3c3372fa21",
     "url": "/joanaoli09-module-ii/static/media/homeImage3.981e5399.jpg"
-  },
-  {
-    "revision": "4d60f65f9107e2379843ae57882faaef",
-    "url": "/joanaoli09-module-ii/static/media/lastrecipe1.4d60f65f.jpg"
-  },
-  {
-    "revision": "5a2eb76e49e688f6137690da09eede16",
-    "url": "/joanaoli09-module-ii/static/media/lastrecipe2.5a2eb76e.jpg"
-  },
-  {
-    "revision": "bf49f879e23d63d8201b84043fd6aea6",
-    "url": "/joanaoli09-module-ii/static/media/lastrecipe3.bf49f879.jpg"
   }
 ]);

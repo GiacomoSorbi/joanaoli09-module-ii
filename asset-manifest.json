@@ -1,34 +1,31 @@
 {
   "files": {
-    "main.css": "/joanaoli09-module-ii/static/css/main.5df790b3.chunk.css",
-    "main.js": "/joanaoli09-module-ii/static/js/main.7bd26744.chunk.js",
-    "main.js.map": "/joanaoli09-module-ii/static/js/main.7bd26744.chunk.js.map",
+    "main.css": "/joanaoli09-module-ii/static/css/main.881fc137.chunk.css",
+    "main.js": "/joanaoli09-module-ii/static/js/main.4f252a34.chunk.js",
+    "main.js.map": "/joanaoli09-module-ii/static/js/main.4f252a34.chunk.js.map",
     "runtime-main.js": "/joanaoli09-module-ii/static/js/runtime-main.30fb249b.js",
     "runtime-main.js.map": "/joanaoli09-module-ii/static/js/runtime-main.30fb249b.js.map",
     "static/css/2.af3c1da9.chunk.css": "/joanaoli09-module-ii/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.937d0e0e.chunk.js": "/joanaoli09-module-ii/static/js/2.937d0e0e.chunk.js",
-    "static/js/2.937d0e0e.chunk.js.map": "/joanaoli09-module-ii/static/js/2.937d0e0e.chunk.js.map",
+    "static/js/2.3d17a313.chunk.js": "/joanaoli09-module-ii/static/js/2.3d17a313.chunk.js",
+    "static/js/2.3d17a313.chunk.js.map": "/joanaoli09-module-ii/static/js/2.3d17a313.chunk.js.map",
     "index.html": "/joanaoli09-module-ii/index.html",
-    "precache-manifest.b983c20ea88cbba62a4731a06c924532.js": "/joanaoli09-module-ii/precache-manifest.b983c20ea88cbba62a4731a06c924532.js",
+    "precache-manifest.404505cce072c2793a1861aea6e2cc8f.js": "/joanaoli09-module-ii/precache-manifest.404505cce072c2793a1861aea6e2cc8f.js",
     "service-worker.js": "/joanaoli09-module-ii/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/joanaoli09-module-ii/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.5df790b3.chunk.css.map": "/joanaoli09-module-ii/static/css/main.5df790b3.chunk.css.map",
-    "static/js/2.937d0e0e.chunk.js.LICENSE.txt": "/joanaoli09-module-ii/static/js/2.937d0e0e.chunk.js.LICENSE.txt",
-    "static/media/HomePage.css": "/joanaoli09-module-ii/static/media/aboutImage.3184f13b.jpg",
+    "static/css/main.881fc137.chunk.css.map": "/joanaoli09-module-ii/static/css/main.881fc137.chunk.css.map",
+    "static/js/2.3d17a313.chunk.js.LICENSE.txt": "/joanaoli09-module-ii/static/js/2.3d17a313.chunk.js.LICENSE.txt",
+    "static/media/aboutImage.jpg": "/joanaoli09-module-ii/static/media/aboutImage.3184f13b.jpg",
     "static/media/aboutus.jpg": "/joanaoli09-module-ii/static/media/aboutus.44e68205.jpg",
     "static/media/Jumbotron.css": "/joanaoli09-module-ii/static/media/heroImage.d28d3176.jpg",
     "static/media/homeImage1.jpg": "/joanaoli09-module-ii/static/media/homeImage1.eb5ab899.jpg",
     "static/media/homeImage2.jpg": "/joanaoli09-module-ii/static/media/homeImage2.14a16db6.jpg",
-    "static/media/homeImage3.jpg": "/joanaoli09-module-ii/static/media/homeImage3.981e5399.jpg",
-    "static/media/lastrecipe1.jpg": "/joanaoli09-module-ii/static/media/lastrecipe1.4d60f65f.jpg",
-    "static/media/lastrecipe2.jpg": "/joanaoli09-module-ii/static/media/lastrecipe2.5a2eb76e.jpg",
-    "static/media/lastrecipe3.jpg": "/joanaoli09-module-ii/static/media/lastrecipe3.bf49f879.jpg"
+    "static/media/homeImage3.jpg": "/joanaoli09-module-ii/static/media/homeImage3.981e5399.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.30fb249b.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.937d0e0e.chunk.js",
-    "static/css/main.5df790b3.chunk.css",
-    "static/js/main.7bd26744.chunk.js"
+    "static/js/2.3d17a313.chunk.js",
+    "static/css/main.881fc137.chunk.css",
+    "static/js/main.4f252a34.chunk.js"
   ]
 }
